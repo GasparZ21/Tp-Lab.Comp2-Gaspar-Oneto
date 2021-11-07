@@ -25,4 +25,7 @@
     #footer-contact{
         justify-content: flex-start;
     }
+    .container{
+        width: 40%;
+    }
 }
