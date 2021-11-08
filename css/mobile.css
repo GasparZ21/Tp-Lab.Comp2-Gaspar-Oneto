@@ -1,24 +1,30 @@
 @media screen and (max-width:480px) {
     #section-main-image{
-            height: 60vh;
+            height: 60%;
             
     }
     
     #section-main-image h1{
-        font-size: 90px;
+        font-size: 80px;
     }
     #section-main-image h3{
-        font-size: 15px;
+        font-size: 15%;
     }
     
+    nav ul{
+        padding: 10%;
+    }
+
     .product-grid{
         grid-row: auto;
         grid-column: auto;
     }
     .product{
+        width: 20%;
         padding: 0 10px
     }
     .product-img{
+        width: 40%;
         display: grid;
         grid-row: auto;
     }
